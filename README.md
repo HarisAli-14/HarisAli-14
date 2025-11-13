@@ -71,6 +71,18 @@ Building **AI-powered web apps** that integrate **LLMs**, real-time analytics, a
 
 
 ---
+<h3 align="left">📊 Languages & Frameworks I Work With:</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-40%25-blue?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Next.js-25%25-black?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Supabase-15%25-3ECF8E?style=for-the-badge&logo=supabase" />
+  <img src="https://img.shields.io/badge/Python-10%25-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/React-5%25-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/JavaScript-3%25-F7DF1E?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Node.js-2%25-43853D?style=for-the-badge&logo=nodedotjs" />
+</p>
+
 
 
 
