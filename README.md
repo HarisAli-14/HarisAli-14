@@ -10,7 +10,6 @@ Building **AI-powered web apps** that integrate **LLMs**, real-time analytics, a
 
 ### 🌱 Currently Learning  
 - Advanced **LangChain** and **Retrieval-Augmented Generation (RAG)**  
-- **FastAPI + Python** integrations for AI backends  
 - **Cloud deployments** and optimization with **Vercel** and **AWS**
 
 ---
